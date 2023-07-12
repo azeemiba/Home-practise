@@ -1,0 +1,18 @@
+p{
+    background-color: #F3764A;
+    text-align: center;
+    padding: 0.3;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+li {
+    list-style-type: none;
+}
